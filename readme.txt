@@ -1,4 +1,3 @@
 Git is a version control system.
 Git is free software.
-123456789
-777777777777
+123456
